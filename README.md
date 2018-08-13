@@ -170,8 +170,6 @@ Now connect using a bridge.
 ```sh
 ssh -R 52698:localhost:52698 server_user@server_address
 
-# New DEV/STG Example
-ssh -R 52698:localhost:52698  root@96.126.96.245
 ```
 
 Open a file from the server in your local sublime text using the `rsub` command. Your Sublime Test will start.
