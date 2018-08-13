@@ -38,9 +38,14 @@ These instructions will get you a copy of the project up and running on your loc
 - [VueTools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) - Chrome and Firefox DevTools extension for debugging Vue.js applications.
 
 
-### MySQL
+#### MySQL
 
-If you got trouble with MySQL, follow these scripts. [Remove MySQL](https://gist.github.com/chepetime/d98e95f38217479279dfa581371f79d7) | [Install MySQL](https://gist.github.com/chepetime/e7ba6a4c668b8690a4d0c3c9c7a83616)
+If you got trouble with MySQL, follow these scripts.
+
+- [Remove MySQL](https://gist.github.com/chepetime/d98e95f38217479279dfa581371f79d7)
+- [Install MySQL](https://gist.github.com/chepetime/e7ba6a4c668b8690a4d0c3c9c7a83616)
+
+<br>
 
 ## Local Deployment
 
@@ -110,6 +115,8 @@ npm run serve
 <br>
 
 ## Production Optimizations
+
+Official Laravel optimizations from docs
 
 ### Autoloader Optimization.
 
