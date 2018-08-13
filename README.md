@@ -4,6 +4,8 @@
 
 This project contains CMS solution with Laravel, Voyager, VueJs, Vue-router, Vuex, SASS and Webpack. More to be added.
 
+<br>
+
 ## Built With
 
 > The following software was used to create this project.
@@ -15,6 +17,8 @@ This project contains CMS solution with Laravel, Voyager, VueJs, Vue-router, Vue
 * [Vue Router](https://router.vuejs.org/) - Official Router
 * [Axios](https://github.com/axios/axios) - Promise based HTTP client
 
+
+<br>
 
 ## Getting Started
 
